@@ -9,6 +9,7 @@
         <item>Shopping</item>
         <item>Food</item>
         <item>Travel</item>
+        <item>Stationary</item>
         <item>Others</item>
     </string-array>
 </resources>

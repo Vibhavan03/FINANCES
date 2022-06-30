@@ -58,6 +58,9 @@ public class ExpenseViewHolder extends RecyclerView.ViewHolder {
                 drawableId = R.drawable.ic_others_24;
                 break;
             }
+            case "Stationary":{
+                drawableId = R.drawable.ic_stationary_24;
+            }
         }
         categoryIcon.setImageDrawable(itemView.getResources()
                 .getDrawable(drawableId));
