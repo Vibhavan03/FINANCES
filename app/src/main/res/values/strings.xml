@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FINANCES</string>
+    <string-array name="category_array">
+        <item>Category</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+        <item>Transport</item>
+        <item>Groceries</item>
+        <item>Shopping</item>
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Others</item>
+    </string-array>
+</resources>
